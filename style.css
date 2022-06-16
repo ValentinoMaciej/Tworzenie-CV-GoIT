@@ -9,4 +9,10 @@ body {
     justify-content: center;
     margin: 0 auto;
     background: #ffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-description {
+    margin: 20px;
+    padding: 20px;
 }
