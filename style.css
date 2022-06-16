@@ -33,27 +33,33 @@ body {
 }
 
 .main-description {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .projects {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .experience {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .manager {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .starbucks {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .edukacja {
-    margin: 10px 300px 10px 60px;
+    margin: 10px 200px 10px 60px;
+    line-height: 25px;
 }
 
 .tech-list {
