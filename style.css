@@ -9,7 +9,13 @@ body {
     justify-content: center;
     margin: 0 auto;
     background: #ffff;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 34px 34px 34px 0px;
+    -moz-border-radius: 34px 34px 34px 0px;
+    -webkit-border-radius: 34px 34px 34px 0px;
+    border: 0px solid #000000;
 }
 
 .aside {
