@@ -9,71 +9,59 @@ body {
     justify-content: center;
     margin: 0 auto;
     background: #ffff;
-    -webkit-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
-    border-radius: 34px 34px 34px 0px;
-    -moz-border-radius: 34px 34px 34px 0px;
-    -webkit-border-radius: 34px 34px 34px 0px;
-    border: 0px solid #000000;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-.aside {
-    position: left;
+aside {
     width: 370px;
-    height: 1319px;
-    left: 40px;
-    top: 40px;
     background: #1e2939;
+}
+
+.cv {
+    margin-top: 25px;
+}
+
+.header-secondary {
     color: #ffff;
-    font-size: 16px;
 }
 
-.leftside {
-    position: left;
-    width: 210px;
-    height: 250px;
-    left: 80px;
-    top: 615px;
-    margin: 20px;
+.contact-links {
+    color: #ffff;
+
+    font-size: 14px;
+    line-height: 24px;
 }
 
-.main-description {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
+.bold {
+    font-weight: 700;
 }
 
-.projects {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
 }
 
-.experience {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
+.list-secondary-item {
+    color: #ffff;
+    font-size: 14px;
+    line-height: 24px;
 }
 
-.manager {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
 }
 
-.starbucks {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
 }
 
-.edukacja {
-    margin: 10px 200px 10px 60px;
-    line-height: 25px;
-}
-
-.tech-list {
-    font-size: 12px;
-    line-height: 20px;
-}
-
-.soft-list {
-    font-size: 12px;
-    line-height: 20px;
+.soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
 }
