@@ -65,3 +65,106 @@ aside {
     margin-top: 44px;
     margin-left: 40px;
 }
+
+.front-end-block {
+    margin-top: 102px;
+    margin-left: 88px;
+    margin-right: 342px;
+}
+
+.name {
+    margin-top: 19px;
+}
+
+.lorem-ipsum {
+    margin-top: 24px;
+    color: #595959;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.projects {
+    margin-top: 40px;
+    margin-left: 88px;
+    margin-right: 257px;
+}
+
+.project-head {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.span-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.work-box {
+    margin-top: 51px;
+    margin-left: 88px;
+    margin-right: 217px;
+}
+
+.additional-info {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-top: 11px;
+}
+
+.work-loremipsum {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.manager {
+    margin-top: 16px;
+    margin-left: 88px;
+    margin-right: 217px;
+}
+
+.starbucks {
+    margin-top: 20px;
+    margin-left: 88px;
+    margin-right: 217px;
+}
+
+.education {
+    margin-top: 43px;
+    margin-left: 88px;
+    margin-right: 217px;
+    margin-bottom: 107px;
+}
+
+.uniwersytet {
+    margin-top: 12px;
+}
+
+.administrowanie {
+    margin-top: 11px;
+}
